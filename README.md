@@ -22,7 +22,7 @@ Aplikasi dikembangkan menggunakan **Python**, **Tkinter**, dan **Cryptography**.
 
 ---
 
-# 🧾 **Penjelasan Fungsi Aplikasi**
+# 🧾 **Fungsi Aplikasi**
 
 Aplikasi ini memiliki beberapa fungsi utama sesuai dengan spesifikasi tugas kelompok 5:
 
