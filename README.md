@@ -1,4 +1,4 @@
-# 🔐 Certificate Viewer - GUI (Ultimate Dewa Version)
+# 🔐 Certificate Viewer - GUI
 **Kelompok 5 – Proyek Anatomi Gembok HTTPS (PKI & X.509 Certificate Viewer)**  
 Mata Kuliah: **Kriptografi**  
 Tahun: **2025**
