@@ -132,41 +132,26 @@ Mengekspor informasi sertifikat menjadi file `.json`.
 ---
 
 # 🖼️ **Contoh Output Sertifikat**
-Domain: www.google.com
+Domain: unm.ac.id
 
-Subject: CN=www.google.com, O=Google LLC, L=Mountain View, ST=California, C=US
-Issuer : CN=GTS CA 1O1, O=Google Trust Services, C=US
+Subject: commonName=unm.ac.id
+Issuer : countryName=US, organizationName=Google Trust Services, commonName=WE1
 
 Masa Berlaku:
-Dari : 2025-09-15 08:12:34 UTC
-Sampai: 2026-01-08 08:12:33 UTC
-Status : VALID
+  Dari  : 2025-11-21 00:17:48 UTC
+  Sampai: 2026-02-19 01:15:13 UTC
+  Status: VALID
 
-Algoritma Tanda Tangan: sha256WithRSAEncryption
-Informasi Kunci Publik: RSA (2048 bits)
+Algoritma Tanda Tangan: ecdsa-with-SHA256
+Informasi Kunci Publik: Elliptic Curve (secp256r1)
 
 Fingerprints:
-SHA-256 : AB:CD:EF:...
-SHA-1 : 11:22:33:...
+  SHA-256: 6A:A3:B9:4A:89:6F:B5:D0:EC:BB:37:34:F8:F4:F0:87:84:84:53:4D:2D:EB:42:8A:44:BA:B7:8B:8E:F3:46:7C
+  SHA-1  : CD:98:30:A2:1D:39:22:32:DA:93:41:98:6F:7E:65:2C:8E:05:7D:C1
 
 Subject Alternative Names (SAN):
-
-www.google.com
-
-google.com
-
-Extensions:
-
-keyUsage: Digital Signature, Key Encipherment
-
-basicConstraints: CA:FALSE
-
-extendedKeyUsage: serverAuth
-
-authorityKeyIdentifier: KeyID:...
-
-yaml
-Salin kode
+  - unm.ac.id
+  - *.unm.ac.id
 
 ---
 
