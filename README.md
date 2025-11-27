@@ -79,17 +79,11 @@ Kamu dapat memasukkan file `.txt` yang berisi daftar domain → aplikasi akan me
 # 📘 **Panduan Penggunaan Aplikasi**
 
 Berikut cara menggunakan Certificate Viewer GUI.
-
----
-
 ## 🟦 1. Install Dependensi
 Pastikan Python 3.8+ terpasang.
 
 Install library:
 pip install cryptography
-
-yaml
-Salin kode
 
 ---
 
@@ -97,9 +91,6 @@ Salin kode
 Gunakan perintah:
 
 python certificate_viewer_gui.py
-
-yaml
-Salin kode
 
 Aplikasi GUI akan muncul.
 
@@ -110,9 +101,6 @@ Pada kolom **Domain**, masukkan alamat website.
 
 Contoh:
 www.google.com
-
-yaml
-Salin kode
 
 Port biarkan default: `443`.
 
