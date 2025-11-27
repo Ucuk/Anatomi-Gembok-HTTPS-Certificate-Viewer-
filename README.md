@@ -36,9 +36,6 @@ Aplikasi membuat koneksi HTTPS (port 443) menggunakan SSL/TLS, kemudian mengundu
 Proses ini dilakukan menggunakan:
 ssl.SSLContext().wrap_socket(..., server_hostname=domain)
 
-markdown
-Salin kode
-
 ### 3️⃣ **Menganalisis (Parse) Sertifikat**
 Aplikasi memproses sertifikat dan menampilkan informasi lengkap:
 
