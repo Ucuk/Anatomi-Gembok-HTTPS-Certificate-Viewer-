@@ -174,7 +174,7 @@ Salin kode
 ---
 
 ### 🔗 **GitHub Repository**
-https://github.com/Ucuk/Anatomi-Gembok-HTTPS-Certificate-Viewer
+https://github.com/Ucuk/Anatomi-Gembok-HTTPS-Certificate-Viewer-
 
 ---
 
